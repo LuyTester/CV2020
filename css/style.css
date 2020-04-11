@@ -37,6 +37,15 @@ hr {
   margin: 10px auto 10px auto;
 }
 
+a{
+  color: #79bac1;
+
+}
+a:hover{
+  color:#2a7886;
+
+}
+
 .white-text {
   color: white;
 }
@@ -80,15 +89,15 @@ hr {
 
 .btn{
   align-items: center;
-  border:solid #79bac1;
-  background-color: #79bac1;
+  border:solid #2a7886;
+  background-color: #2a7886;
   border-radius: 10px;
   color:white;
   padding:10px;
 }
 .btn:hover{
-  border:solid #2a7886;
-  background-color: #2a7886;
+  border:solid #79bac1;
+  background-color: #79bac1;
 
 }
 
@@ -101,3 +110,4 @@ hr {
   text-align: left;
   line-height: 2;
 }
+
